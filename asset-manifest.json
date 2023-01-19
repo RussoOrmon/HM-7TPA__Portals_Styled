@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HM-7TPA__Portals_Styled/static/css/main.d9dd86e7.css",
+    "main.js": "/HM-7TPA__Portals_Styled/static/js/main.6e124edf.js",
+    "index.html": "/HM-7TPA__Portals_Styled/index.html",
+    "main.d9dd86e7.css.map": "/HM-7TPA__Portals_Styled/static/css/main.d9dd86e7.css.map",
+    "main.6e124edf.js.map": "/HM-7TPA__Portals_Styled/static/js/main.6e124edf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9dd86e7.css",
+    "static/js/main.6e124edf.js"
+  ]
+}
